@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elements Assignment</title>
+</head>
+<body>
+
+    <h1>The Beauty of Hawaii</h1>
+
+    <h2>Why People Love the Islands</h2>
+
+    <p>
+        Hawaii is known for its <strong>beautiful beaches</strong>, 
+        <em>warm weather</em>, and rich culture. Many visitors enjoy 
+        learning about local traditions and exploring nature. 
+        One popular activity is hiking near volcanic landscapes. 
+        <br><br>
+        The islands also offer amazing food, music, and ocean views. 
+        People from around the world visit Hawaii to relax and experience 
+        the spirit of <mark>aloha</mark>.
+    </p>
+
+    <hr>
+
+    <blockquote>
+        "The loveliest fleet of islands that lies anchored in any ocean."
+        — Mark Twain
+    </blockquote>
+
+    <p>
+        &copy; Your Name 2026 <br>
+        Made with love in Hawaii &hearts;
+    </p>
+
+</body>
+</html>
